@@ -1,16 +1,19 @@
-## Hi there 👋
+### ✨ Hola! Soy Laura Daniela 🙋‍♀️
 
-<!--
-**Danilau14/Danilau14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora backend. Arranqué con JavaScript y Node, y con el tiempo me enamoré de frameworks como **Symfony** y **NestJS**.  
+Me gusta escribir código claro, pensar soluciones en equipo y entender qué pasa con los datos detrás de cada funcionalidad.
 
-Here are some ideas to get you started:
+🎯 Algunas cosas que me definen como dev:
+- Me importa mucho la colaboración con otras áreas (producto, datos, infraestructura).
+- Me entusiasma trabajar en proyectos con impacto real, aunque no siempre sean los más "vistosos".
+- Me interesa la parte analítica: he trabajado diseñando cuadros de mando (CDM) y optimizando procesos ETL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech que uso con frecuencia:
+**Symfony**, **NestJS**, **Node.js**, **JavaScript**, **MongoDB**, **PostgreSQL**, **Docker**, **Git**
+
+🌱 Ahora mismo estoy:
+Aprendiendo **AWS** y preparándome para obtener certificaciones ☁️
+
+🧠 Me gusta aprender haciendo, crecer en equipo y encontrar soluciones que tengan sentido para quienes las usan.
+
+📫 Si querés charlar de código, datos o simplemente compartir experiencias, ¡bienvenido/a!
